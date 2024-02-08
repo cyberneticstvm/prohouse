@@ -56,7 +56,7 @@
 						<div class="col-9">
 							<div class="py-4">
 								<a href="index.html">
-									<img alt="Porto" width="82" height="40" src="img/logo-default-slim-dark-small.png">
+									<img alt="Porto" width="82" height="40" src="{{ asset('/assets/img/logo-default-slim-dark-small.png') }}">
 								</a>
 							</div>
 						</div>
@@ -1026,20 +1026,20 @@
 
 		<div role="main" class="main">
 			<section class="section section-scroll bg-light border-0 p-0 m-0" data-section-scroll-title="HOME" data-section-scroll-header-color="light" style="height: 100vh;">
-				<div class="position-absolute w-100 h-100 top-0 left-0 appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="0" style="background-image: url(img/bg-portfolio-5.jpg); background-size: cover; background-position: center;"></div>
+				<div class="position-absolute w-100 h-100 top-0 left-0 appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="0" style="background-image: url({{ asset('/assets/img/bg/bg1.webp') }}); background-size: cover; background-position: center;"></div>
 				<div class="container h-100">
 					<div class="row align-items-center justify-content-center h-100">
-						<div class="col-lg-7 text-center">
-							<h1 class="position-relative font-weight-bold text-color-light text-13 line-height-2 negative-ls-2 mb-4">Hello, we are <strong class="text-color-primary font-weight-extra-bold appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="200">Porto.</strong> A Digital Agency from <strong class="text-color-primary font-weight-extra-bold appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="500">New York City.</strong></h1>
+						<div class="col-lg-10">
+							<h1 class="position-relative font-weight-bold text-color-light text-13 line-height-2 negative-ls-2 mb-4">Hello, we are <strong class="gradient-text-color font-weight-extra-bold appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="200">The PRO House.</strong> Business Solution Provider in <strong class="gradient-text-color font-weight-extra-bold appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="500">UAE, Europe & UK</strong></h1>
 							<div class="appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="1000">
-								<p class="font-weight-light text-color-light text-6 line-height-7 opacity-7 px-5 mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit phasellus.</p>
+								<p class="font-weight-light text-color-light text-6 line-height-7 opacity-7 mb-0">Our understanding of diverse cultures and global business practices positions us as a reliable partner for those seeking services beyond their borders. </p>
 							</div>
 						</div>
 					</div>
 				</div>
 			</section>
 
-			<section class="section section-scroll section-background border-0 m-0" data-section-scroll-title="PORTO BOX" data-section-scroll-header-color="light" style="background-image: url(img/projects/project-portfolio-5-1.jpg); background-size: cover; background-position: center; height: 100vh;">
+			<section class="section section-scroll section-background border-0 m-0" data-section-scroll-title="PORTO BOX" data-section-scroll-header-color="light" style="background-image: url({{ asset('/assets/img/projects/project-portfolio-5-1.jpg') }}); background-size: cover; background-position: center; height: 100vh;">
 				<div class="container-fluid h-100">
 					<div class="row align-items-end h-100">
 						<div class="col-9 col-md-5 col-lg-3 overlay overlay-show overlay-op-9 overlay-backward py-2 appear-animation" data-appear-animation="fadeInRightShorter">
