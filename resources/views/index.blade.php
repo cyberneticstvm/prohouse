@@ -1039,9 +1039,16 @@
 				</div>
 			</section>
 
-			<section class="section section-scroll section-background border-0 m-0" data-section-scroll-title="PORTO BOX" data-section-scroll-header-color="light" style="background-image: url({{ asset('/assets/img/projects/project-portfolio-5-1.jpg') }}); background-size: cover; background-position: center; height: 100vh;">
-				<div class="container-fluid h-100">
+			<section class="section section-scroll section-background border-0 m-0 overlay overlay-show overlay-op-9 overlay-backward" data-section-scroll-title="PORTO BOX" data-section-scroll-header-color="light" style="background-image: url({{ asset('/assets/img/bg/bg2.webp') }}); background-size: cover; background-position: center; height: 100vh;">
+				<div class="container h-100">
 					<div class="row align-items-end h-100">
+						<div class="col-lg-12">
+							<h1 class="position-relative font-weight-bold text-color-light text-13 line-height-2 negative-ls-2 mb-4">Know <strong class="gradient-text-color font-weight-extra-bold appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="200">Who</strong> We <strong class="gradient-text-color font-weight-extra-bold appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="500">Are</strong></h1>
+							<div class="appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="1000">
+								<p class="font-weight-light text-color-light text-6 line-height-7 opacity-7 mb-0">The inception of The PRO House emerged to power business solutions for organizations to thrive. Our guidance, secured by substantial experience and a well-established reputation, ensures the security of your business interests. We propel your business ideas to new heights through our trusted expertise and scalable solutions.</p>
+								<p class="font-weight-light text-color-light text-6 line-height-7 opacity-7 mb-0">Our acclaimed expertise is spread across Business Incorporation, Banking Solutions, Corporate & Financial Solutions, and Investment programs. Take the opportunity right here to navigate the intricacies of regulations, compliance, and paperwork to drive your organization right here. </p>
+							</div>
+						</div>
 						<div class="col-9 col-md-5 col-lg-3 overlay overlay-show overlay-op-9 overlay-backward py-2 appear-animation" data-appear-animation="fadeInRightShorter">
 							<div class="position-relative z-index-2 py-4">
 								<div class="appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="500">
@@ -1058,9 +1065,15 @@
 				</div>
 			</section>
 
-			<section class="section section-scroll section-background border-0 m-0" data-section-scroll-title="PORTO WEBSITE" data-section-scroll-header-color="light" style="background-image: url(img/projects/project-portfolio-5-2.jpg); background-size: cover; background-position: center; height: 100vh;">
-				<div class="container-fluid h-100">
+			<section class="section section-scroll section-background border-0 m-0 overlay overlay-show overlay-op-9 overlay-backward" data-section-scroll-title="PORTO WEBSITE" data-section-scroll-header-color="light" style="background-image: url({{ asset('/assets/img/bg/bg3.webp') }}); background-size: cover; background-position: center; height: 100vh;">
+				<div class="container h-100">
 					<div class="row align-items-end h-100">
+						<div class="col-lg-12">
+							<h1 class="position-relative font-weight-bold text-color-light text-13 line-height-2 negative-ls-2 mb-4">Business <strong class="gradient-text-color font-weight-extra-bold appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="200">Incorporation In</strong> UAE, <strong class="gradient-text-color font-weight-extra-bold appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="500">Europe & UK</strong></h1>
+							<div class="appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="1000">
+								<p class="font-weight-light text-color-light text-6 line-height-7 opacity-7 mb-0">At The PRO House starts your business! Through our streamlined process, registering your business happens effortlessly regardless Mainland, Free Zone, or Offshore company. Our tailored solutions take its development from analyzing, assessing, and implementing the right approach to your specifications. A structure that suits your venture type is here for the business enthusiasts to set up your businesses in UAE, Europe & UK.</p>
+							</div>
+						</div>
 						<div class="col-9 col-md-5 col-lg-3 overlay overlay-show overlay-op-9 overlay-backward py-2 appear-animation" data-appear-animation="fadeInRightShorter">
 							<div class="position-relative z-index-2 py-4">
 								<div class="appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="500">
