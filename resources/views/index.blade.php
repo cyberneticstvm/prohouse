@@ -26,11 +26,11 @@
         <div class="row">
             <div class="col-12 col-lg-6 offset-lg-6 wow animate__fadeIn">
                 <div class="row m-0">
-                    <div class="col-12 text-center text-lg-start sm-no-padding-lr last-paragraph-no-margin margin-60px-bottom md-margin-30px-bottom">
+                    <div class="col-12 text-lg-start sm-no-padding-lr last-paragraph-no-margin margin-60px-bottom md-margin-30px-bottom">
                         <span class="text-medium text-deep-pink alt-font margin-10px-bottom d-inline-block">Know who we are</span>
                         <h5 class="alt-font text-extra-dark-gray font-weight-600">Empowering Your Growth</h5>
-                        <p class="w-90 md-w-100"><span class="first-letter sm-padding-two-lr text-extra-dark-gray">T</span>he inception of The PRO House emerged to power business solutions for organizations to thrive. Our guidance, secured by substantial experience and a well-established reputation, ensures the security of your business interests. We propel your business ideas to new heights through our trusted expertise and scalable solutions.</p>
-                        <p class="w-90 md-w-100">Our acclaimed expertise is spread across Business Incorporation, Banking Solutions, Corporate & Financial Solutions, and Investment programs. Take the opportunity right here to navigate the intricacies of regulations, compliance, and paperwork to drive your organization right here.</p>
+                        <p class="w-90 md-w-100 text-justify"><span class="first-letter sm-padding-two-lr text-extra-dark-gray">T</span>he inception of The PRO House emerged to power business solutions for organizations to thrive. Our guidance, secured by substantial experience and a well-established reputation, ensures the security of your business interests. We propel your business ideas to new heights through our trusted expertise and scalable solutions.</p>
+                        <p class="w-90 md-w-100 text-justify">Our acclaimed expertise is spread across Business Incorporation, Banking Solutions, Corporate & Financial Solutions, and Investment programs. Take the opportunity right here to navigate the intricacies of regulations, compliance, and paperwork to drive your organization right here.</p>
                     </div>
                 </div>
             </div>
@@ -49,7 +49,7 @@
             <!-- start column -->
             <div class="col-12">
                 <div class="bg-light-gray padding-40px-all sm-padding-30px-all last-paragraph-no-margin">
-                    <p class=""><span class="first-letter sm-padding-two-lr text-extra-dark-gray">L</span>orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                    <p class="text-justify"><span class="first-letter sm-padding-two-lr text-extra-dark-gray">L</span>orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
                 </div>
             </div>
             <!-- end column -->
