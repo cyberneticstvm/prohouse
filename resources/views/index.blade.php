@@ -40,19 +40,133 @@
 <section class="overflow-hidden wow animate__fadeIn">
     <div class="container">
         <div class="row">
-            <div class="col-lg-8 margin-eight-bottom last-paragraph-no-margin">
+            <div class="col-lg-12 last-paragraph-no-margin">
                 <span class="text-medium text-deep-pink alt-font margin-10px-bottom d-inline-block">What we do</span>
-                <h5 class="alt-font text-extra-dark-gray font-weight-600">Beautiful and easy to use UI, professional animations and drag & drop feature</h5>
+                <h5 class="alt-font text-extra-dark-gray font-weight-600">We believe “Service works as good as gold”, each company under The PRO House works towards it.</h5>
             </div>
         </div>
-        <div class="row">
-            <!-- start column -->
-            <div class="col-12">
-                <div class="bg-light-gray padding-40px-all sm-padding-30px-all last-paragraph-no-margin">
-                    <p class="text-justify"><span class="first-letter sm-padding-two-lr text-extra-dark-gray">L</span>orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+        <div class="row justify-content-center">
+            <div class="col-lg-12">
+                <!-- start accordion -->
+                <div class="panel-group accordion-event accordion-style2" id="accordion-main" data-active-icon="fa-angle-up" data-inactive-icon="fa-angle-down">
+                    <!-- start tab content -->
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <a class="accordion-toggle" data-bs-toggle="collapse" data-bs-parent="#accordion-main" href="#collapseOne">
+                                <div class="panel-title">
+                                    <span class="alt-font font-weight-600 text-deep-pink tab-tag">01</span>
+                                    <span class="text-extra-large text-extra-dark-gray alt-font font-weight-600">Business Incorporation</span>
+                                    <i class="fa-solid fa-angle-up text-extra-dark-gray"></i>
+                                </div>
+                            </a>
+                        </div>
+                        <div id="collapseOne" class="panel-collapse collapse show" data-bs-parent="#accordion-main">
+                            <div class="panel-body">
+                                <p class="text-justify"><span class="first-letter sm-padding-two-lr text-extra-dark-gray">A</span>t The PRO House starts your business! Through our streamlined process, registering your business happens effortlessly regardless Mainland, Free Zone, or Offshore company. Our tailored solutions take its development from analyzing, assessing, and implementing the right approach to your specifications. A structure that suits your venture type is here for the business enthusiasts to set up your businesses in UAE, Europe & UK.</p>
+                                <ul class="p-0 list-style-10">
+                                    <li><i class="fa-solid fa-arrow-right text-deep-pink" aria-hidden="true"></i><span>Issuing Trade License/ Renewal</span></li>
+                                    <li><i class="fa-solid fa-arrow-right text-deep-pink" aria-hidden="true"></i><span>Setup of Foreign Company Franchise</span></li>
+                                    <li><i class="fa-solid fa-arrow-right text-deep-pink" aria-hidden="true"></i><span>Business Residence Permit in Europe</span></li>
+                                    <li><i class="fa-solid fa-arrow-right text-deep-pink" aria-hidden="true"></i><span>Offshore Company in Global Business Hubs</span></li>
+                                    <li><i class="fa-solid fa-arrow-right text-deep-pink" aria-hidden="true"></i><span>Government Approvals for Regulated Businesses</span></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- end tab content -->
+                    <!-- start tab content -->
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <a class="accordion-toggle" data-bs-toggle="collapse" data-bs-parent="#accordion-main" href="#collapseTwo">
+                                <div class="panel-title">
+                                    <span class="alt-font font-weight-600 text-deep-pink tab-tag">02</span>
+                                    <span class="text-extra-large text-extra-dark-gray alt-font font-weight-600">Corporate Banking</span>
+                                    <i class="fa-solid fa-angle-up text-extra-dark-gray"></i>
+                                </div>
+                            </a>
+                        </div>
+                        <div id="collapseTwo" class="panel-collapse collapse" data-bs-parent="#accordion-main">
+                            <div class="panel-body">
+                                <p class="text-justify"><span class="first-letter sm-padding-two-lr text-extra-dark-gray">W</span>ant to open an account in a foreign bank for individuals or legal entities? We are here to help companies and individuals open multiple corporate bank accounts with multiple currencies. An international bank account enables the ability to manage multiple currencies which is especially useful if you have financial commitments in different countries. Our supervision is your guidebook to steer the perplexity of banking processes amidst the rigorous rules, AML policies and tax compliance requirements that come your way. Our groundwork and study of different banks and jurisdictions has equipped us with the competence to find the best fit for your specific needs</p>
+                                <ul class="p-0 list-style-10">
+                                    <li><i class="fa-solid fa-arrow-right text-deep-pink" aria-hidden="true"></i><span>Personal & Corporate Account Opening (Multi-Currency)</span></li>
+                                    <li><i class="fa-solid fa-arrow-right text-deep-pink" aria-hidden="true"></i><span>Offshore Investment Opportunities - Foreign Banks</span></li>
+                                    <li><i class="fa-solid fa-arrow-right text-deep-pink" aria-hidden="true"></i><span>Annual CDD (Customer Due Diligence) </span></li>
+                                    <li><i class="fa-solid fa-arrow-right text-deep-pink" aria-hidden="true"></i><span>Credit Card & Corporate Business Loan</span></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- end tab content -->
+                    <!-- start tab content -->
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <a class="accordion-toggle" data-bs-toggle="collapse" data-bs-parent="#accordion-main" href="#collapseThree">
+                                <div class="panel-title">
+                                    <span class="alt-font font-weight-600 text-deep-pink tab-tag">03</span>
+                                    <span class="text-extra-large text-extra-dark-gray alt-font font-weight-600">Auditing & Accounting</span>
+                                    <i class="fa-solid fa-angle-up text-extra-dark-gray"></i>
+                                </div>
+                            </a>
+                        </div>
+                        <div id="collapseThree" class="panel-collapse collapse" data-bs-parent="#accordion-main">
+                            <div class="panel-body">
+                                <p class="text-justify"><span class="first-letter sm-padding-two-lr text-extra-dark-gray">W</span>ith significant experience providing fully outsourced and co-sourced accounting services we have deployed high-quality deliverables, on time and within your budget. Our unparalleled customer centric is evident in our approach through on-site or off-site services that are customized according to your requirements. Here we promote transparency, accountability, and efficiency in books of accounts of our clients to give you the best out of your financial and managerial resources. With a highly qualified team that has varied industry experience we have successfully been able to serve all types of industries</p>
+                                <p>Follow a single set of high-quality, global accounting standards, known as IFRS Standards</p>
+                                <ul class="p-0 list-style-10">
+                                    <li><i class="fa-solid fa-arrow-right text-deep-pink" aria-hidden="true"></i><span>Accounting, Book-keeping & Financial Reporting </span></li>
+                                    <li><i class="fa-solid fa-arrow-right text-deep-pink" aria-hidden="true"></i><span>Internal & Third-Party Audit & Assurance Services</span></li>
+                                    <li><i class="fa-solid fa-arrow-right text-deep-pink" aria-hidden="true"></i><span>Accounting Software Solutions</span></li>
+                                    <li><i class="fa-solid fa-arrow-right text-deep-pink" aria-hidden="true"></i><span>VAT Registration & Implementation</span></li>
+                                    <li><i class="fa-solid fa-arrow-right text-deep-pink" aria-hidden="true"></i><span>Corporate Tax</span></li>
+                                    <li><i class="fa-solid fa-arrow-right text-deep-pink" aria-hidden="true"></i><span>In-Country Certificate (ADNOC)</span></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- end tab content -->
+                    <!-- start tab content -->
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <a class="accordion-toggle" data-bs-toggle="collapse" data-bs-parent="#accordion-main" href="#collapseFour">
+                                <div class="panel-title">
+                                    <span class="alt-font font-weight-600 text-deep-pink tab-tag">04</span>
+                                    <span class="text-extra-large text-extra-dark-gray alt-font font-weight-600">Study Abroad & Migration</span>
+                                    <i class="fa-solid fa-angle-up text-extra-dark-gray"></i>
+                                </div>
+                            </a>
+                        </div>
+                        <div id="collapseFour" class="panel-collapse collapse" data-bs-parent="#accordion-main">
+                            <div class="panel-body">
+                                <p class="text-justify"><span class="first-letter sm-padding-two-lr text-extra-dark-gray">O</span>ur Higher Education, and Recruitment Plan is a comprehensive and globally oriented service that caters to the diverse needs of individuals and organizations seeking top-notch higher education (U.G & P.G), skill development, and talent acquisition. We have positioned ourselves as a provider of innovative solutions in the education sector.</p>
+                                <p class="text-justify">We collaborate with reputed educational institutions domestically, and worldwide to facilitate access to quality higher education at the level of UG/PG and Pathways. Whether it's pursuing undergraduate or postgraduate studies, we assist in finding the right academic path that aligns with your goals and aspirations. Our international network ensures that students have access to diverse educational opportunities in prestigious institutions in any field of studies. With a well-established network, we seamlessly extend our services to clients in different countries. </p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- end tab content -->
+                    <!-- start tab content -->
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <a class="accordion-toggle" data-bs-toggle="collapse" data-bs-parent="#accordion-main" href="#collapseFive">
+                                <div class="panel-title">
+                                    <span class="alt-font font-weight-600 text-deep-pink tab-tag">05</span>
+                                    <span class="text-extra-large text-extra-dark-gray alt-font font-weight-600">Real Estate: Mortgage (UK & UAE) & Will Writing</span>
+                                    <i class="fa-solid fa-angle-up text-extra-dark-gray"></i>
+                                </div>
+                            </a>
+                        </div>
+                        <div id="collapseFive" class="panel-collapse collapse" data-bs-parent="#accordion-main">
+                            <div class="panel-body">
+                                <p class="text-justify"><span class="first-letter sm-padding-two-lr text-extra-dark-gray">T</span>alk to us and you will find a diligent & diverse team, ready to cater to your every need in the property market. With our uncompromising services we have worked hard to ensure that our clients could trust the service we offer.</p>
+                                <p class="text-justify"><strong>Mortgage:</strong> Our extensive knowledge of home loan market and property transaction process removes the hassle of getting your mortgage. We help you buy your dream home assist with our low-documentation exclusive mortgage offers. Our tailor-made mortgage plans have marked its trust in the residential market. Pre-approval-disbursal we have it all covered.</p>
+                                <p class="text-justify">Unlike other jurisdictions, the UAE does not practice right of survivorship in the law of inheritance. ie. when an expat dies without a will, it may lead to immediate freezing of bank accounts and investments made in the form of shares or other investment options. Therefore, it is necessary to have a registered will at hand to ensure that your property and assets are divided among the deserving beneficiaries. Our Advisory Services offer professional will writing services in UAE and expert legal advice ensuring your wealth is in safe hands.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- end tab content -->
                 </div>
+                <!-- end accordion -->
             </div>
-            <!-- end column -->
         </div>
     </div>
 </section>
