@@ -5,7 +5,7 @@
     <div class="container position-relative one-fourth-screen">
         <div class="row h-100 align-items-center">
             <div class="col-xl-12 col-lg-12 col-sm-12 mx-auto">
-                <!--<span class="text-extra-small alt-font letter-spacing-2 text-uppercase margin-20px-bottom d-inline-block text-medium-gray">we work hard, we play hard</span>-->
+                <span class="mt-3 text-extra-small alt-font letter-spacing-2 text-uppercase margin-20px-bottom d-inline-block text-medium-gray">we work hard, we play hard</span>
                 <h2 class="font-weight-600 alt-font margin-40px-bottom md-margin-20px-bottom text-extra-dark-gray letter-spacing-minus-1">Our understanding of diverse cultures and global business practices positions us as a reliable partner for those seeking services beyond their borders.</h2>
                 <div class="social-icon-style-8">
                     <ul class="small-icon">
