@@ -3,15 +3,15 @@
 
 <head>
     <!-- title -->
-    <title>POFO – Creative Agency, Corporate and Portfolio Multi-purpose Template</title>
+    <title>The PRO House - Business Incorporation Consultant</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1" />
-    <meta name="author" content="ThemeZaa">
+    <meta name="author" content="Cybernetics">
     <!-- description -->
-    <meta name="description" content="POFO is a highly creative, modern, visually stunning and Bootstrap responsive multipurpose agency and portfolio HTML5 template with 25 ready home page demos.">
+    <meta name="description" content="Business Incorporation, Corporate Banking, Auditing & Accounting, Migration & Study Abroad, Real Estate, Mortgage & Will Writing">
     <!-- keywords -->
-    <meta name="keywords" content="creative, modern, clean, bootstrap responsive, html5, css3, portfolio, blog, agency, templates, multipurpose, one page, corporate, start-up, studio, branding, designer, freelancer, carousel, parallax, photography, personal, masonry, grid, coming soon, faq">
+    <meta name="keywords" content="Business Incorporation, Corporate Banking, Auditing & Accounting, Migration & Study Abroad, Real Estate, Mortgage & Will Writing">
     <!-- favicon -->
     <link rel="shortcut icon" href="{{ asset('/assets/images/favicon.png') }}">
     <link rel="apple-touch-icon" href="{{ asset('/assets/images/apple-touch-icon-57x57.png') }}">
