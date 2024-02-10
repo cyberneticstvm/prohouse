@@ -44,7 +44,7 @@
                                 <div class="z-index-minus1 opacity-medium bg-extra-dark-gray"></div>
                                 <a href="{{ route('index') }}"><img alt="" src="{{ asset('/assets/images/prohouse/logo/logo-prohouse-white.webp') }}" data-at2x="{{ asset('/assets/images/prohouse/logo/logo-prohouse-white.webp') }}"></a>
                                 <div class="position-absolute bottom-50 text-center w-100 margin-30px-bottom">
-                                    <div class="text-small text-extra-medium-gray">&copy; {{ date('Y') }} PRO House</div>
+                                    <div class="text-small text-extra-medium-gray">&copy; {{ date('Y') }} The PRO House</div>
                                 </div>
                             </div>
                             @include("nav")
@@ -69,13 +69,13 @@
         <div class="container">
             <div class="row align-items-center">
                 <!-- start logo -->
-                <div class="col-md-3 text-center text-lg-start sm-margin-20px-bottom">
-                    <a href="index.html"><img class="footer-logo" src="{{ asset('/assets/images/logo.png') }}" data-at2x="{{ asset('/assets/images/logo@2x.png') }}" alt="Pofo"></a>
+                <div class="col-md-2 text-center text-lg-start sm-margin-20px-bottom">
+                    <a href="{{ route('index') }}"><img class="footer-logo" src="{{ asset('/assets/images/prohouse/logo/logo-prohouse-black.webp') }}" data-at2x="{{ asset('/assets/images/prohouse/logo/logo-prohouse-black.webp') }}" alt="The PRO House"></a>
                 </div>
                 <!-- end logo -->
                 <!-- start copyright -->
                 <div class="col-md-6 text-center text-small alt-font sm-margin-10px-bottom">
-                    &copy; 2024 POFO is Proudly Powered by <a href="http://www.themezaa.com" target="_blank" title="ThemeZaa">ThemeZaa</a>.
+                    &copy; {{ date('Y') }} The PRO House.
                 </div>
                 <!-- end copyright -->
                 <!-- start social media -->

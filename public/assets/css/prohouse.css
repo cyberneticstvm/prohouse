@@ -1,3 +1,11 @@
 .logo img {
     width: 50% !important;
 }
+
+.footer-logo {
+    max-height: 50px !important;
+}
+
+.text-justify {
+    text-align: justify !important;
+}
