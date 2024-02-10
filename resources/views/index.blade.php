@@ -5,20 +5,18 @@
     <div class="container position-relative one-fourth-screen">
         <div class="row h-100 align-items-center">
             <div class="col-xl-12 col-lg-12 col-sm-12 mx-auto">
-                <span class="text-extra-small alt-font letter-spacing-2 text-uppercase margin-20px-bottom d-inline-block text-medium-gray">we work hard, we play hard</span>
+                <!--<span class="text-extra-small alt-font letter-spacing-2 text-uppercase margin-20px-bottom d-inline-block text-medium-gray">we work hard, we play hard</span>-->
                 <h2 class="font-weight-600 alt-font margin-40px-bottom md-margin-20px-bottom text-extra-dark-gray letter-spacing-minus-1">Our understanding of diverse cultures and global business practices positions us as a reliable partner for those seeking services beyond their borders.</h2>
                 <div class="social-icon-style-8">
                     <ul class="small-icon">
-                        <li><a class="facebook text-extra-dark-gray margin-5px-lr" href="https://www.facebook.com/" target="_blank"><i class="fa-brands fa-facebook-f" aria-hidden="true"></i></a></li>
                         <li><a class="twitter text-extra-dark-gray margin-5px-lr" href="https://twitter.com/" target="_blank"><i class="fa-brands fa-twitter"></i></a></li>
-                        <li><a class="google text-extra-dark-gray margin-5px-lr" href="https://plus.google.com" target="_blank"><i class="fa-brands fa-google-plus-g"></i></a></li>
                         <li><a class="dribbble text-extra-dark-gray margin-5px-lr" href="https://instagram.com/" target="_blank"><i class="fa-brands fa-instagram" aria-hidden="true"></i></a></li>
                     </ul>
                 </div>
             </div>
         </div>
         <div class="down-section text-center">
-            <a href="#about" class="inner-link"><i class="ti-arrow-down icon-small text-deep-pink"></i></a>
+            <a href="#about" class="inner-link"><i class="ti-arrow-down icon-small"></i></a>
         </div>
     </div>
 </section>
