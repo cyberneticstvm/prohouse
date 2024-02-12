@@ -1,7 +1,7 @@
 @extends("base")
 @section("content")
 <!-- start hero section -->
-<section class="wow animate__fadeIn p-0 position-relative parallax sm-background-image-center" data-parallax-background-ratio="0.5" style="background-image:url('{{ asset('/assets/images/prohouse/bg/4.png') }}'); max-height:50%;">
+<section class="wow animate__fadeIn p-0 position-relative parallax sm-background-image-center" data-parallax-background-ratio="0.5" style="background-image:url('{{ asset('/assets/images/prohouse/bg/5.png') }}'); max-height:50%;">
     <div class="container position-relative one-fourth-screen">
         <div class="row h-100 align-items-center">
             <div class="col-xl-12 col-lg-12 col-sm-12 mx-auto">
