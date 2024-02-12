@@ -58,7 +58,7 @@
                                 <div class="panel-title">
                                     <span class="alt-font font-weight-600 text-deep-pink tab-tag">01</span>
                                     <span class="text-extra-large text-extra-dark-gray alt-font font-weight-600">Business Incorporation</span>
-                                    <i class="fa-solid fa-angle-down text-extra-dark-gray"></i>
+                                    <i class="fa-solid fa-angle-up text-extra-dark-gray"></i>
                                 </div>
                             </a>
                         </div>
