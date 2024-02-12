@@ -1,15 +1,16 @@
 @extends("base")
 @section("content")
 <!-- start hero section -->
-<section class="wow animate__fadeIn p-0 position-relative parallax sm-background-image-center" data-parallax-background-ratio="0.5" style="background-image:url('{{ asset('/assets/images/prohouse/bg/1.webp') }}');">
+<section class="wow animate__fadeIn p-0 position-relative parallax sm-background-image-center" data-parallax-background-ratio="0.5" style="background-image:url('{{ asset('/assets/images/prohouse/bg/4.png') }}'); max-height:50%;">
     <div class="container position-relative one-fourth-screen">
         <div class="row h-100 align-items-center">
             <div class="col-xl-12 col-lg-12 col-sm-12 mx-auto">
-                <span class="mt-5 text-extra-small alt-font letter-spacing-2 text-uppercase margin-20px-bottom d-inline-block text-deep-pink">We work hard, We provide solutions</span>
-                <h2 class="font-weight-600 alt-font margin-40px-bottom md-margin-20px-bottom text-extra-dark-gray letter-spacing-minus-1">Our understanding of diverse cultures and global business practices positions us as a reliable partner for those seeking services beyond their borders.</h2>
+                <!--<span class="mt-5 text-extra-small alt-font letter-spacing-2 text-uppercase margin-20px-bottom d-inline-block text-deep-pink">We work hard, We provide solutions</span>
+                <h2 class="font-weight-600 alt-font margin-40px-bottom md-margin-20px-bottom text-extra-dark-gray letter-spacing-minus-1"></h2>-->
                 <div class="social-icon-style-8">
                     <ul class="small-icon">
                         <li><a class="twitter text-extra-dark-gray margin-5px-lr" href="https://twitter.com/" target="_blank"><i class="fa-brands fa-twitter"></i></a></li>
+                        <li><a class="facebook text-extra-dark-gray margin-5px-lr" href="https://facebook.com/" target="_blank"><i class="fa-brands fa-facebook"></i></a></li>
                         <li><a class="dribbble text-extra-dark-gray margin-5px-lr" href="https://instagram.com/" target="_blank"><i class="fa-brands fa-instagram" aria-hidden="true"></i></a></li>
                     </ul>
                 </div>
@@ -42,7 +43,8 @@
         <div class="row">
             <div class="col-lg-12 last-paragraph-no-margin">
                 <span class="text-medium text-deep-pink alt-font margin-10px-bottom d-inline-block">What we do</span>
-                <h5 class="alt-font text-extra-dark-gray font-weight-600">We believe “Service works as good as gold”, each company under The PRO House works towards it.</h5>
+                <!--<h5 class="alt-font text-extra-dark-gray font-weight-600">We believe “Service works as good as gold”, each company under The PRO House works towards it.</h5>-->
+                <h5 class="alt-font text-extra-dark-gray font-weight-600">Our understanding of diverse cultures and global business practices positions us as a reliable partner for those seeking services beyond their borders.</h5>
             </div>
         </div>
         <div class="row justify-content-center">
