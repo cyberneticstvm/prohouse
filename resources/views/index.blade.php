@@ -38,7 +38,7 @@
         </div>
     </div>
 </section>
-<section class="overflow-hidden wow animate__fadeIn">
+<section class="overflow-hidden wow animate__fadeIn secThird">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 last-paragraph-no-margin">

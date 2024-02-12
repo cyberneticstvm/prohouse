@@ -18,8 +18,9 @@
                 <!-- start social links -->
                 <div class="margin-fifteen-top">
                     <div class="icon-social-medium padding-three-bottom">
-                        <a href="https://www.facebook.com/" target="_blank" class="text-extra-dark-gray text-deep-pink-hover margin-one-lr"><i class="fa-brands fa-facebook-f" aria-hidden="true"></i></a>
                         <a href="https://twitter.com/" target="_blank" class="text-extra-dark-gray text-deep-pink-hover margin-one-lr"><i class="fa-brands fa-twitter" aria-hidden="true"></i></a>
+                        <a href="https://www.facebook.com/" target="_blank" class="text-extra-dark-gray text-deep-pink-hover margin-one-lr"><i class="fa-brands fa-facebook-f" aria-hidden="true"></i></a>
+                        <a href="https://instagram.com/" target="_blank" class="text-extra-dark-gray text-deep-pink-hover margin-one-lr"><i class="fa-brands fa-instagram" aria-hidden="true"></i></a>
                     </div>
                 </div>
                 <!-- start social links -->

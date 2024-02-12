@@ -82,10 +82,9 @@
                 <div class="col-md-3 text-center text-lg-end">
                     <div class="social-icon-style-8 d-inline-block align-middle">
                         <ul class="small-icon mb-0">
-                            <li><a class="facebook" href="https://www.facebook.com/" target="_blank"><i class="fa-brands fa-facebook-f" aria-hidden="true"></i></a></li>
-                            <li><a class="twitter" href="https://twitter.com/" target="_blank"><i class="fa-brands fa-twitter"></i></a></li>
-                            <li><a class="google" href="https://plus.google.com" target="_blank"><i class="fa-brands fa-google-plus-g"></i></a></li>
-                            <li><a class="dribbble" href="https://dribbble.com/" target="_blank"><i class="fa-brands fa-dribbble me-0" aria-hidden="true"></i></a></li>
+                            <li><a class="twitter text-extra-dark-gray margin-5px-lr" href="https://twitter.com/" target="_blank"><i class="fa-brands fa-twitter"></i></a></li>
+                            <li><a class="facebook text-extra-dark-gray margin-5px-lr" href="https://facebook.com/" target="_blank"><i class="fa-brands fa-facebook"></i></a></li>
+                            <li><a class="dribbble text-extra-dark-gray margin-5px-lr" href="https://instagram.com/" target="_blank"><i class="fa-brands fa-instagram" aria-hidden="true"></i></a></li>
                         </ul>
                     </div>
                 </div>

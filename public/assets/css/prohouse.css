@@ -9,3 +9,11 @@
 .text-justify {
     text-align: justify !important;
 }
+
+.mobile-toggle span {
+    background-color: #fff !important;
+}
+
+.secThird {
+    background-color: #dbd5cd !important;
+}
