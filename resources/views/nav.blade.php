@@ -42,7 +42,18 @@
                     </ul>
                 </li>
                 <li class="dropdown">
-                    <a data-bs-toggle="dropdown" href="{{ route('index') }}" title="Contact Us">Contact ProHouse </a>
+                    <a data-bs-toggle="dropdown" href="#" title="Contact">Contact PRO House <i class="fa-solid fa-angle-right"></i></a>
+                    <ul class="dropdown-menu second-level">
+                        <li class="dropdown ms-3">
+                            The PRO House<br />
+                            NGI Housess<br />
+                            1st floor, Blue Titan Business Centre<br />
+                            Port Saeed, Deira<br />
+                            Dubai, P.O. 376031<br />
+                            Mobile: +971 58 824 2030<br />
+                            Email: info@theprohouse.org
+                        </li>
+                    </ul>
                 </li>
                 <li>
                     <div class="side-left-menu-close close-side"></div>
