@@ -24,6 +24,7 @@
             <div class="col-sm-12 margin-eight-bottom md-margin-40px-bottom sm-margin-30px-bottom text-center">
                 <h5 class="alt-font font-weight-700 text-extra-dark-gray margin-20px-bottom text-uppercase">About PRO House</h5>
                 <p class="mx-auto mb-0 text-justify">The PRO House emerged out of the burning need to power business solutions for organizations hungering to thrive in the globalised world. Our guidance, secured by substantial experience and a well-established reputation, ensures the security of your business interests.We propel your business ideas to new heights through our trusted expertise and scalable solutions.</p>
+                <br />
                 <p class="mx-auto mb-0 text-justify">Our acclaimed expertise is spread across Business Incorporation, Banking Solutions, Corporate & Financial Solutions, Loan Syndication and Investment programs. Take the opportunity to navigate the intricacies of regulations, compliance, and paperwork to drive your organization right here. We are here to hand hold you till you attain your designated goals.</p>
             </div>
         </div>
@@ -37,7 +38,7 @@
             <div class="col-xl-6 ps-0 lg-margin-15px-top md-no-margin-top md-no-padding-right wow animate__fadeIn" data-wow-delay="0.4s">
                 <div class="d-flex flex-column align-content-center justify-content-center md-padding-ten-all text-center text-lg-start sm-padding-five-lr sm-padding-fifteen-tb w-100 h-100">
                     <p class="text-extra-large text-medium-gray font-weight-300 text-justify">We always stay with our clients and respect their business. We deliver 100% and provide instant response.</p>
-                    <p class="text-justify">Unlike other jurisdictions, the UAE does not practice 'right of survivorship' in the law of inheritance. ie. when an expat dies without a will, it may lead to immediate freezing of bank accounts and investments made in the form of shares or other investment options. Therefore, it is necessary to have a registered will at hand to ensure that your property and assets are divided among the deserving beneficiaries. Our Advisory Services offer professional will writing services in UAE and expert legal advice ensuring your wealth is in safe hands.</p>
+                    <p class="text-justify"></p>
                     <a href="{{ route('index') }}" class="text-uppercase alt-font text-extra-small">Our Services <i class="fa-solid fa-arrow-right-long margin-5px-left text-deep-pink text-medium position-relative top-2" aria-hidden="true"></i></a>
                 </div>
             </div>
@@ -163,6 +164,7 @@
                             <div class="panel-body">
                                 <p class="text-justify"><span class="first-letter sm-padding-two-lr text-extra-dark-gray">T</span>alk to us and you will find a diligent, professional, diverse and vibrant team, ready to cater to your every need in the property market. We are with you, ever willing, with the services we provide. Our reputation as the leading real estate agency in Dubai didn't happen overnight. We worked hard to ensure that our clients could trust the services we offered by hiring the best people for the job.</p>
                                 <p class="text-justify">Our extensive knowledge of the home loan market and property transaction processes makes getting your mortgage hassle free. We help you buy your dream home, ensuring limited documentation exclusive mortgage offers. Our tailor-made mortgage plans have earned their mettle and trust in the residential real estate market. Pre-approval-disbursal, we have it all covered.</p>
+                                <p class="text-justify">Unlike other jurisdictions, the UAE does not practice 'right of survivorship' in the law of inheritance. ie. when an expat dies without a will, it may lead to immediate freezing of bank accounts and investments made in the form of shares or other investment options. Therefore, it is necessary to have a registered will at hand to ensure that your property and assets are divided among the deserving beneficiaries. Our Advisory Services offer professional will writing services in UAE and expert legal advice ensuring your wealth is in safe hands.</p>
                             </div>
                         </div>
                     </div>
