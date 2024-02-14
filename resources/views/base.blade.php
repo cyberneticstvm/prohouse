@@ -26,73 +26,41 @@
     <link rel="stylesheet" type="text/css" href="{{ asset('/assets/css/prohouse.css') }}" />
 </head>
 
-<body class="w-100">
-    <!-- start header -->
-    <header class="no-sticky">
-        <!-- start navigation -->
-        <nav class="navbar full-width-pull-menu navbar-top-scroll no-border-top nav-box-width no-transition">
-            <!-- start navigation panel -->
-            <div class="container-fluid nav-header-container h-100px sm-h-70px">
-                <!-- start logo -->
-                <div class="col-auto ps-0"><a href="{{ route('index') }}" title="PRO House" class="logo"><img src="{{ asset('/assets/images/prohouse/logo/logo-prohouse-black.webp') }}" data-at2x="{{ asset('/assets/images/prohouse/logo/logo-prohouse-black.webp') }}" alt="PRO House"></a></div>
-                <!-- end logo -->
-                <!-- start main menu -->
-                <div class="col-auto pe-0">
-                    <div class="menu-wrap full-screen">
-                        <div class="row g-0 h-100 justify-content-center">
-                            <div class="col-md-6 p-0 text-center z-index-0 d-none d-md-flex flex-column justify-content-center cover-background" style="background-image:url('{{ asset('/assets/images/menu-background-1.png') }}')">
-                                <div class="z-index-minus1 opacity-medium bg-extra-dark-gray"></div>
-                                <a href="{{ route('index') }}"><img alt="" src="{{ asset('/assets/images/prohouse/logo/logo-prohouse-white.webp') }}" data-at2x="{{ asset('/assets/images/prohouse/logo/logo-prohouse-white.webp') }}"></a>
-                                <div class="position-absolute bottom-50 text-center w-100 margin-30px-bottom">
-                                    <div class="text-small text-extra-medium-gray">&copy; {{ date('Y') }} The PRO House</div>
-                                </div>
-                            </div>
-                            @include("nav")
+<body>
+    @include("nav")
+    <div class="sidebar-wrapper mobile-height">
+        @yield("content")
+        <!-- start footer -->
+        <footer class="footer-center-logo bg-light-gray padding-five-tb sm-padding-30px-tb">
+            <div class="container">
+                <div class="row align-items-center">
+                    <!-- start copyright -->
+                    <div class="col-lg-4 col-md-5 text-small text-center alt-font sm-margin-15px-bottom">
+                        &copy; {{ date('Y') }} THE PRO HOUSE.
+                    </div>
+                    <!-- end copyright -->
+                    <!-- start logo -->
+                    <div class="col-lg-4 col-md-2 text-center sm-margin-10px-bottom">
+                        <a href="index.html"><img class="footer-logo" src="{{ asset('/assets/images/prohouse/logo/logo-prohouse-black.webp') }}" data-at2x="{{ asset('/assets/images/prohouse/logo/logo-prohouse-black.webp') }}" alt="Pofo"></a>
+                    </div>
+                    <!-- end logo -->
+                    <!-- start social media -->
+                    <div class="col-lg-4 col-md-5 text-center">
+                        <span class="alt-font text-small margin-20px-right md-margin-15px-right">On social networks</span>
+                        <div class="social-icon-style-8 d-inline-block align-middle">
+                            <ul class="small-icon mb-0">
+                                <li><a class="facebook" href="https://www.facebook.com/" target="_blank"><i class="fa-brands fa-facebook-f" aria-hidden="true"></i></a></li>
+                                <li><a class="twitter" href="https://twitter.com/" target="_blank"><i class="fa-brands fa-x-twitter"></i></a></li>
+                                <li><a class="instagram" href="https://instagram.com/" target="_blank"><i class="fa-brands fa-instagram me-0" aria-hidden="true"></i></a></li>
+                            </ul>
                         </div>
                     </div>
-                    <!-- end main menu -->
-                    <button class="navbar-toggler mobile-toggle" type="button" id="open-button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse">
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                    </button>
+                    <!-- end social media -->
                 </div>
             </div>
-            <!-- end navigation panel -->
-        </nav>
-        <!-- end navigation -->
-    </header>
-    <!-- end header -->
-    @yield("content")
-    <!-- start footer -->
-    <footer class="footer-strip border-color-extra-light-gray border-top padding-50px-tb sm-padding-30px-tb">
-        <div class="container">
-            <div class="row align-items-center">
-                <!-- start logo -->
-                <div class="col-md-2 text-center text-lg-start sm-margin-20px-bottom">
-                    <a href="{{ route('index') }}"><img class="footer-logo" src="{{ asset('/assets/images/prohouse/logo/logo-prohouse-black.webp') }}" data-at2x="{{ asset('/assets/images/prohouse/logo/logo-prohouse-black.webp') }}" alt="The PRO House"></a>
-                </div>
-                <!-- end logo -->
-                <!-- start copyright -->
-                <div class="col-md-6 text-center text-small alt-font sm-margin-10px-bottom">
-                    &copy; {{ date('Y') }} The PRO House.
-                </div>
-                <!-- end copyright -->
-                <!-- start social media -->
-                <div class="col-md-3 text-center text-lg-end">
-                    <div class="social-icon-style-8 d-inline-block align-middle">
-                        <ul class="small-icon mb-0">
-                            <li><a class="twitter text-extra-dark-gray margin-5px-lr" href="https://twitter.com/" target="_blank"><i class="fa-brands fa-twitter"></i></a></li>
-                            <li><a class="facebook text-extra-dark-gray margin-5px-lr" href="https://facebook.com/" target="_blank"><i class="fa-brands fa-facebook"></i></a></li>
-                            <li><a class="dribbble text-extra-dark-gray margin-5px-lr" href="https://instagram.com/" target="_blank"><i class="fa-brands fa-instagram" aria-hidden="true"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-                <!-- end social media -->
-            </div>
-        </div>
-    </footer>
-    <!-- end footer -->
+        </footer>
+        <!-- end footer -->
+    </div>
     <!-- start scroll to top -->
     <a class="scroll-top-arrow" href="javascript:void(0);"><i class="ti-arrow-up"></i></a>
     <!-- end scroll to top  -->

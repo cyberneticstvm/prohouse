@@ -1,54 +1,52 @@
 @extends("base")
 @section("content")
-<!-- start hero with parallax section -->
-<section class="wow animate__fadeIn p-0 parallax sm-background-image-center" data-parallax-background-ratio="0.5" style="background-image:url('{{ asset('/assets/images/prohouse/bg/bg5.webp') }}');">
-    <div class="container full-screen position-relative">
-        <div class="row m-0 h-100 align-items-center">
-            <div class="col-xl-12 text-center text-lg-start bg-white-opacity padding-six-all lg-padding-eight-all">
-                <div class="alt-font text-extra-dark-gray text-uppercase font-weight-700 letter-spacing-minus-2 title-large">Empowering Your Growth</div>
-                <div class="separator-line-horrizontal-full w-100 margin-35px-tb md-margin-25px-tb sm-margin-20px-tb bg-extra-dark-gray"></div>
-                <span class="text-dark-gray text-extra-large font-weight-300 margin-35px-bottom d-block md-margin-25px-bottom sm-margin-15px-bottom">Our understanding of diverse cultures and global business practices positions us as a reliable partner for those seeking services beyond their borders.</span>
-                <a href="#why" class="btn btn-dark-gray btn-medium">Know More</a>
+<!-- start hero section -->
+<section class="wow animate__fadeIn p-0 position-relative parallax sm-background-image-center" data-parallax-background-ratio="0.5" style="background-image:url('{{ asset('/assets/images/prohouse/bg/5.png') }}');">
+    <div class="container position-relative one-fourth-screen">
+        <div class="row h-100 align-items-center">
+            <div class="col-xl-12 col-lg-12 col-sm-12 mx-auto">
+                <!--<span class="mt-5 text-extra-small alt-font letter-spacing-2 text-uppercase margin-20px-bottom d-inline-block text-deep-pink">We work hard, We provide solutions</span>
+                <h2 class="font-weight-600 alt-font margin-40px-bottom md-margin-20px-bottom text-extra-dark-gray letter-spacing-minus-1"></h2>-->
+                <div class="social-icon-style-8">
+                    <ul class="small-icon">
+                        <li><a class="twitter text-extra-dark-gray margin-5px-lr" href="https://twitter.com/" target="_blank"><i class="fa-brands fa-twitter"></i></a></li>
+                        <li><a class="facebook text-extra-dark-gray margin-5px-lr" href="https://facebook.com/" target="_blank"><i class="fa-brands fa-facebook"></i></a></li>
+                        <li><a class="dribbble text-extra-dark-gray margin-5px-lr" href="https://instagram.com/" target="_blank"><i class="fa-brands fa-instagram" aria-hidden="true"></i></a></li>
+                    </ul>
+                </div>
             </div>
-            <div class="down-section text-center">
-                <a href="#why" class="section-link up-down-ani"><i class="ti-mouse icon-small bounce text-deep-pink"></i></a>
-            </div>
+        </div>
+        <div class="down-section text-center">
+            <a href="#about" class="inner-link"><i class="ti-arrow-down icon-small text-deep-pink"></i></a>
         </div>
     </div>
 </section>
-<!-- end hero banner with parallax section -->
-<!-- start section -->
-<section class="wow animate__fadeIn md-no-padding-bottom sm-padding-50px-bottom">
+<!-- end hero section -->
+<section class="wow animate__fadeIn overflow-hidden cover-background md-no-background-img bg-medium-light-gray" style="background-image: url('{{ asset('/assets/images/prohouse/bg/2.webp') }}')" id="about">
     <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-sm-12 margin-eight-bottom md-margin-40px-bottom sm-margin-30px-bottom text-center">
-                <h5 class="alt-font font-weight-700 text-extra-dark-gray margin-20px-bottom text-uppercase">About PRO House</h5>
-                <p class="mx-auto mb-0 text-justify">The PRO House emerged out of the burning need to power business solutions for organizations hungering to thrive in the globalised world. Our guidance, secured by substantial experience and a well-established reputation, ensures the security of your business interests.We propel your business ideas to new heights through our trusted expertise and scalable solutions.</p>
-                <p class="mx-auto mb-0 text-justify">Our acclaimed expertise is spread across Business Incorporation, Banking Solutions, Corporate & Financial Solutions, Loan Syndication and Investment programs. Take the opportunity to navigate the intricacies of regulations, compliance, and paperwork to drive your organization right here. We are here to hand hold you till you attain your designated goals.</p>
-            </div>
-        </div>
         <div class="row">
-            <div class="col-xl-3 col-sm-6 text-center ps-0 lg-padding-15px-left md-no-padding wow animate__fadeIn">
-                <img src="{{ asset('/assets/images/prohouse/bg/first.webp') }}" alt="" class="w-100">
-            </div>
-            <div class="col-xl-3 col-sm-6 text-center ps-0 lg-padding-15px-left md-no-padding wow animate__fadeIn" data-wow-delay="0.2s">
-                <img src="{{ asset('/assets/images/prohouse/bg/second.webp') }}" alt="" class="w-100">
-            </div>
-            <div class="col-xl-6 ps-0 lg-margin-15px-top md-no-margin-top md-no-padding-right wow animate__fadeIn" data-wow-delay="0.4s">
-                <div class="d-flex flex-column align-content-center justify-content-center md-padding-ten-all text-center text-lg-start sm-padding-five-lr sm-padding-fifteen-tb w-100 h-100">
-                    <p class="text-extra-large text-medium-gray font-weight-300 text-justify">We always stay with our clients and respect their business. We deliver 100% and provide instant response.</p>
-                    <p class="text-justify">Unlike other jurisdictions, the UAE does not practice 'right of survivorship' in the law of inheritance. ie. when an expat dies without a will, it may lead to immediate freezing of bank accounts and investments made in the form of shares or other investment options. Therefore, it is necessary to have a registered will at hand to ensure that your property and assets are divided among the deserving beneficiaries. Our Advisory Services offer professional will writing services in UAE and expert legal advice ensuring your wealth is in safe hands.</p>
-                    <a href="{{ route('index') }}" class="text-uppercase alt-font text-extra-small">Our Services <i class="fa-solid fa-arrow-right-long margin-5px-left text-deep-pink text-medium position-relative top-2" aria-hidden="true"></i></a>
+            <div class="col-12 col-lg-6 offset-lg-6 wow animate__fadeIn">
+                <div class="row m-0">
+                    <div class="col-12 text-lg-start sm-no-padding-lr last-paragraph-no-margin margin-60px-bottom md-margin-30px-bottom">
+                        <span class="text-medium text-deep-pink alt-font margin-10px-bottom d-inline-block">Know who we are</span>
+                        <h5 class="alt-font text-extra-dark-gray font-weight-600">Empowering Your Growth</h5>
+                        <p class="w-90 md-w-100 text-justify"><span class="first-letter sm-padding-two-lr text-extra-dark-gray">T</span>he PRO House emerged out of the burning need to power business solutions for organizations hungering to thrive in the globalised world. Our guidance, secured by substantial experience and a well-established reputation, ensures the security of your business interests.We propel your business ideas to new heights through our trusted expertise and scalable solutions.</p>
+                        <p class="w-90 md-w-100 text-justify">Our acclaimed expertise is spread across Business Incorporation, Banking Solutions, Corporate & Financial Solutions, Loan Syndication and Investment programs. Take the opportunity to navigate the intricacies of regulations, compliance, and paperwork to drive your organization right here. We are here to hand hold you till you attain your designated goals.</p>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
 </section>
-<!-- end section -->
-<!-- start feature box section  -->
-<section id="why" class="wow animate__fadeIn wow animate__fadeIn lg-padding-two-lr sm-no-padding-lr">
+<section class="overflow-hidden wow animate__fadeIn secThird">
     <div class="container">
-        <h5 class="alt-font font-weight-700 text-extra-dark-gray margin-20px-bottom text-uppercase text-center">WHAT WE DO</h5>
+        <div class="row">
+            <div class="col-lg-12 last-paragraph-no-margin">
+                <span class="text-medium text-deep-pink alt-font margin-10px-bottom d-inline-block">What we do</span>
+                <!--<h5 class="alt-font text-extra-dark-gray font-weight-600">We believe “Service works as good as gold”, each company under The PRO House works towards it.</h5>-->
+                <h5 class="alt-font text-extra-dark-gray font-weight-600">Our understanding of diverse cultures and global business practices positions us as a reliable partner for those seeking services beyond their borders.</h5>
+            </div>
+        </div>
         <div class="row justify-content-center">
             <div class="col-lg-12">
                 <!-- start accordion -->
@@ -173,5 +171,4 @@
         </div>
     </div>
 </section>
-<!-- end feature box section -->
 @endsection

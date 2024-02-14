@@ -1,6 +1,8 @@
-/*.logo img {
-    width: 50% !important;
-}*/
+@media (min-width: 992px) {
+    .logo-holder img {
+        max-height: 100px !important;
+    }
+}
 
 .footer-logo {
     max-height: 50px !important;
@@ -8,12 +10,4 @@
 
 .text-justify {
     text-align: justify !important;
-}
-
-.mobile-toggle span {
-    background-color: #fff !important;
-}
-
-.secThird {
-    background-color: #dbd5cd !important;
 }
