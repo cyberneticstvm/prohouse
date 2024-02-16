@@ -44,7 +44,7 @@
                 <li class="dropdown">
                     <a data-bs-toggle="dropdown" href="#" title="Contact">Contact PRO House <i class="fa-solid fa-angle-right"></i></a>
                     <ul class="dropdown-menu second-level">
-                        <li class="dropdown ms-3">
+                        <li class="dropdown ms-3 contact">
                             The PRO House<br />
                             NGI Housess<br />
                             1st floor, Blue Titan Business Centre<br />
