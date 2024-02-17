@@ -50,8 +50,9 @@
                         <div class="social-icon-style-8 d-inline-block align-middle">
                             <ul class="small-icon mb-0">
                                 <li><a class="facebook" href="https://www.facebook.com/" target="_blank"><i class="fa-brands fa-facebook-f" aria-hidden="true"></i></a></li>
-                                <li><a class="twitter" href="https://twitter.com/" target="_blank"><i class="fa-brands fa-x-twitter"></i></a></li>
+                                <li><a class="twitter" href="https://x.com/the_pro_house" target="_blank"><i class="fa-brands fa-x-twitter"></i></a></li>
                                 <li><a class="instagram" href="https://instagram.com/" target="_blank"><i class="fa-brands fa-instagram me-0" aria-hidden="true"></i></a></li>
+                                <li><a class="linkedin" href="https://www.linkedin.com/in/the-pro-house" target="_blank"><i class="fa-brands fa-linkedin me-0" aria-hidden="true"></i></a></li>
                             </ul>
                         </div>
                     </div>
