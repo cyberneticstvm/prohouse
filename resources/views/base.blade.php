@@ -24,9 +24,26 @@
     <link rel="stylesheet" type="text/css" href="{{ asset('/assets/css/style.css') }}" />
     <link rel="stylesheet" type="text/css" href="{{ asset('/assets/css/responsive.css') }}" />
     <link rel="stylesheet" type="text/css" href="{{ asset('/assets/css/prohouse.css') }}" />
+    <link href="{{ asset('/assets/css/mystickyelement.css') }}" rel="stylesheet">
 </head>
 
 <body>
+    <!-- Whatsapp -->
+    <div class="mystickyelements-fixed mystickyelements-position-right mystickyelements-position-screen-center mystickyelements-position-mobile-right mystickyelements-on-hover mystickyelements-size-medium mystickyelements-mobile-size-medium mystickyelements-templates-default">
+        <div class="mystickyelement-lists-wrap">
+            <ul class="mystickyelements-lists mystickyno-minimize">
+                <li id="mystickyelements-social-whatsapp" class="mystickyelements-social-icon-li mystickyelements-social-whatsapp  element-desktop-on element-mobile-on">
+                    <span class="mystickyelements-social-icon social-whatsapp social-custom" style="background: #000">
+                        <a href="https://api.whatsapp.com/send?phone=97142277348&text=Hello!%20I%20am%20interested%20in%20your%20service" target="_blank" rel="noopener"><i class="fa-brands fa-whatsapp"></i></a>
+                    </span>
+                    <span class="mystickyelements-social-text" style="background: #000;">
+                        <a href="https://api.whatsapp.com/send?phone=97142277348&text=Hello!%20I%20am%20interested%20in%20your%20service" target="_blank" rel="noopener">WhatsApp</a>
+                    </span>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <!-- End Whatsapp -->
     @include("nav")
     <div class="sidebar-wrapper mobile-height">
         @yield("content")
@@ -51,7 +68,7 @@
                             <ul class="small-icon mb-0">
                                 <li><a class="facebook" href="https://www.facebook.com/" target="_blank"><i class="fa-brands fa-facebook-f" aria-hidden="true"></i></a></li>
                                 <li><a class="twitter" href="https://x.com/the_pro_house" target="_blank"><i class="fa-brands fa-x-twitter"></i></a></li>
-                                <li><a class="instagram" href="https://instagram.com/" target="_blank"><i class="fa-brands fa-instagram me-0" aria-hidden="true"></i></a></li>
+                                <li><a class="instagram" href="https://instagram.com/theprohouse01" target="_blank"><i class="fa-brands fa-instagram me-0" aria-hidden="true"></i></a></li>
                                 <li><a class="linkedin" href="https://www.linkedin.com/in/the-pro-house" target="_blank"><i class="fa-brands fa-linkedin me-0" aria-hidden="true"></i></a></li>
                             </ul>
                         </div>
@@ -73,6 +90,19 @@
     <script type="text/javascript" src="{{ asset('/assets/js/theme-vendors.min.js') }}"></script>
     <!-- setting -->
     <script type="text/javascript" src="{{ asset('/assets/js/main.js') }}"></script>
+    <script>
+        $(function() {
+            $(".mystickyelements-fixed").hover(function() {
+                $("#mystickyelements-social-whatsapp").addClass("elements-active elements-hover-active");
+                $(".mystickyelements-fixed").addClass("mystickyelements-on-click");
+            });
+
+            $(".mystickyelements-fixed").mouseleave(function() {
+                $("#mystickyelements-social-whatsapp").removeClass("elements-active elements-hover-active");
+                $(".mystickyelements-fixed").removeClass("mystickyelements-on-click");
+            })
+        });
+    </script>
 </body>
 
 </html>

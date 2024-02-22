@@ -50,7 +50,7 @@
                             1st floor, Blue Titan Business Centre<br />
                             Port Saeed, Deira<br />
                             Dubai, P.O. 376031<br />
-                            Mobile: +971 58 824 2030<br />
+                            Mobile: +971 4 227 7348<br />
                             Email: info@theprohouse.org
                         </li>
                     </ul>
@@ -74,7 +74,7 @@
             <div class="icon-social-medium margin-eleven-bottom padding-eight-top sm-padding-15px-top sm-margin-15px-bottom">
                 <a href="https://www.facebook.com/" target="_blank" class="text-link-extra-dark-gray"><i class="fa-brands fa-facebook-f" aria-hidden="true"></i></a>
                 <a href="https://x.com/the_pro_house" target="_blank" class="text-link-extra-dark-gray"><i class="fa-brands fa-x-twitter" aria-hidden="true"></i></a>
-                <a href="https://instagram.com/" target="_blank" class="text-link-extra-dark-gray"><i class="fa-brands fa-instagram" aria-hidden="true"></i></a>
+                <a href="https://instagram.com/theprohouse01" target="_blank" class="text-link-extra-dark-gray"><i class="fa-brands fa-instagram" aria-hidden="true"></i></a>
                 <a href="https://linkedin.com/in/the-pro-house" target="_blank" class="text-link-extra-dark-gray"><i class="fa-brands fa-linkedin" aria-hidden="true"></i></a>
             </div>
             <div class="text-medium-gray text-extra-small border-top border-color-extra-light-gray padding-twelve-top sm-padding-15px-top">&copy; {{ date('Y') }} THE PRO HOUSE. All rights reserved</div>
