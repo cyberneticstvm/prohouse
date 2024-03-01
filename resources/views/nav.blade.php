@@ -50,7 +50,7 @@
                             1st floor, Blue Titan Business Centre<br />
                             Port Saeed, Deira<br />
                             Dubai, P.O. 376031<br />
-                            UAE Contact: +971 4 227 7348<br />
+                            UAE & UK Contact: +971 4 227 7348<br />
                             Russia Contact: +971 50 478 3477<br />
                             Email: info@theprohouse.org
                         </li>
