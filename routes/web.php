@@ -16,3 +16,11 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('index');
 })->name('index');
+
+Route::get('/sitemap.xml', function () {
+    return view('sitemap');
+})->name('sitemap');
+
+Route::get('/robots.txt', function () {
+    return view('robots');
+})->name('robots');
