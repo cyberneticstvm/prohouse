@@ -18,9 +18,9 @@ Route::get('/', function () {
 })->name('index');
 
 Route::get('/sitemap.xml', function () {
-    return view('sitemap');
+    return response()->view('sitemap')->header('Content-Type', 'text/xml');
 })->name('sitemap');
 
 Route::get('/robots.txt', function () {
-    return view('robots');
+    return response()->view('robots')->header('Content-Type', 'text/plain');
 })->name('robots');
