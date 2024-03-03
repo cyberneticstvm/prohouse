@@ -45,13 +45,15 @@
                     <a data-bs-toggle="dropdown" href="#" title="Contact">Contact PRO House <i class="fa-solid fa-angle-right"></i></a>
                     <ul class="dropdown-menu second-level">
                         <li class="dropdown ms-3 contact">
+                            <strong>Address</strong><br />
                             The PRO House<br />
-                            NGI Housess<br />
+                            NGI House<br />
                             1st floor, Blue Titan Business Centre<br />
                             Port Saeed, Deira<br />
-                            Dubai, P.O. 376031<br />
-                            UAE & UK Contact: +971 4 227 7348<br />
-                            Russia Contact: +971 50 478 3477<br />
+                            Dubai, P.O. 376031<br /><br />
+                            <strong>Contact</strong><br />
+                            EN: +971 4 227 7348<br />
+                            RU: +971 50 478 3477<br />
                             Email: info@theprohouse.org
                         </li>
                     </ul>
