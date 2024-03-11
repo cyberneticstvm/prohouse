@@ -11,7 +11,7 @@
                     <ul class="small-icon">
                         <li><a class="twitter text-extra-dark-gray margin-5px-lr" href="https://twitter.com/" target="_blank"><i class="fa-brands fa-twitter"></i></a></li>
                         <li><a class="facebook text-extra-dark-gray margin-5px-lr" href="https://facebook.com/" target="_blank"><i class="fa-brands fa-facebook"></i></a></li>
-                        <li><a class="dribbble text-extra-dark-gray margin-5px-lr" href="https://instagram.com/" target="_blank"><i class="fa-brands fa-instagram" aria-hidden="true"></i></a></li>
+                        <li><a class="dribbble text-extra-dark-gray margin-5px-lr" href="https://instagram.com/theprohouseae" target="_blank"><i class="fa-brands fa-instagram" aria-hidden="true"></i></a></li>
                     </ul>
                 </div>
             </div>
