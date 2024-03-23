@@ -15989,7 +15989,7 @@ figure {
 .accordion-style2 .panel .panel-heading {
     background: #fff;
     border-radius: 0;
-    padding: 18px 28px 19px;
+    /*padding: 18px 28px 19px;*/
     position: relative;
 }
 

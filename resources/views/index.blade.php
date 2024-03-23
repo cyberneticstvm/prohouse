@@ -5,7 +5,7 @@
     <div class="container full-screen position-relative">
         <div class="row m-0 h-100 align-items-center">
             <div class="col-xl-12 text-center text-lg-start bg-white-opacity padding-six-all lg-padding-eight-all">
-                <div class="alt-font text-extra-dark-gray text-uppercase font-weight-700 letter-spacing-minus-2 title-large">Empowering Your Growth</div>
+                <h1 class="alt-font text-extra-dark-gray text-uppercase font-weight-700 letter-spacing-minus-2 title-large">Empowering Your Growth</h1>
                 <div class="separator-line-horrizontal-full w-100 margin-35px-tb md-margin-25px-tb sm-margin-20px-tb bg-extra-dark-gray"></div>
                 <span class="text-dark-gray text-extra-large font-weight-300 margin-35px-bottom d-block md-margin-25px-bottom sm-margin-15px-bottom">Our understanding of diverse cultures and global business practices positions us as a reliable partner for those seeking services beyond their borders.</span>
                 <a href="#why" class="btn btn-dark-gray btn-medium">Know More</a>
@@ -22,7 +22,7 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-sm-12 margin-eight-bottom md-margin-40px-bottom sm-margin-30px-bottom text-center">
-                <h5 class="alt-font font-weight-700 text-extra-dark-gray margin-20px-bottom text-uppercase">About PRO House</h5>
+                <h2 class="alt-font font-weight-700 text-extra-dark-gray margin-20px-bottom text-uppercase">About PRO House</h2>
                 <p class="mx-auto mb-0 text-justify">The PRO House emerged out of the burning need to power business solutions for organizations hungering to thrive in the globalised world. Our guidance, secured by substantial experience and a well-established reputation, ensures the security of your business interests.We propel your business ideas to new heights through our trusted expertise and scalable solutions.</p>
                 <br />
                 <p class="mx-auto mb-0 text-justify">Our acclaimed expertise is spread across Business Incorporation, Banking Solutions, Corporate & Financial Solutions, Loan Syndication and Investment programs. Take the opportunity to navigate the intricacies of regulations, compliance, and paperwork to drive your organization right here. We are here to hand hold you till you attain your designated goals.</p>
@@ -30,14 +30,14 @@
         </div>
         <div class="row">
             <div class="col-xl-3 col-sm-6 text-center ps-0 lg-padding-15px-left md-no-padding wow animate__fadeIn">
-                <img src="{{ asset('/assets/images/prohouse/bg/first.webp') }}" alt="" class="w-100">
+                <img src="{{ asset('/assets/images/prohouse/bg/first.webp') }}" alt="Business Incorporation - PRO House" class="w-100">
             </div>
             <div class="col-xl-3 col-sm-6 text-center ps-0 lg-padding-15px-left md-no-padding wow animate__fadeIn" data-wow-delay="0.2s">
-                <img src="{{ asset('/assets/images/prohouse/bg/second.webp') }}" alt="" class="w-100">
+                <img src="{{ asset('/assets/images/prohouse/bg/second.webp') }}" alt="Corporate Banking - PRO House" class="w-100">
             </div>
             <div class="col-xl-6 ps-0 lg-margin-15px-top md-no-margin-top md-no-padding-right wow animate__fadeIn" data-wow-delay="0.4s">
                 <div class="d-flex flex-column align-content-center justify-content-center md-padding-ten-all text-center text-lg-start sm-padding-five-lr sm-padding-fifteen-tb w-100 h-100">
-                    <p class="text-extra-large text-medium-gray font-weight-300 text-justify">We always stay with our clients and respect their business. We deliver 100% and provide instant response.</p>
+                    <h3 class="text-extra-large text-medium-gray font-weight-300 text-justify">We always stay with our clients and respect their business. We deliver 100% and provide instant response.</h3>
                     <p class="text-justify">At The PRO House, we want to invest in tomorrow, by staying ahead of what's next in creativity, and we are equipped with the scale to give our clients an advantage in their larger purpose. We do not confine our services through the limitation of options. For anyone with a business dream anywhere, we remain at your service to perpetually transform to meet your business requirements.</p>
                     <p class="text-justify">We have opted proactive ways and have outdone our competition time and again. We also understand that we're in a business where relationships are the main foundation and we go out of our way to foster them. This is how we've been able to win and keep businesses</p>
                     <a href="{{ route('index') }}" class="text-uppercase alt-font text-extra-small">Our Services <i class="fa-solid fa-arrow-right-long margin-5px-left text-deep-pink text-medium position-relative top-2" aria-hidden="true"></i></a>
@@ -60,8 +60,7 @@
                         <div class="panel-heading">
                             <a class="accordion-toggle" data-bs-toggle="collapse" data-bs-parent="#accordion-main" href="#collapseOne">
                                 <div class="panel-title">
-                                    <span class="alt-font font-weight-600 text-deep-pink tab-tag">01</span>
-                                    <span class="text-extra-large text-extra-dark-gray alt-font font-weight-600">Business Incorporation</span>
+                                    <h4 class="text-extra-large text-extra-dark-gray alt-font font-weight-600"><span class="alt-font font-weight-600 text-deep-pink tab-tag">01</span>Business Incorporation</h4>
                                     <i class="fa-solid fa-angle-up text-extra-dark-gray"></i>
                                 </div>
                             </a>
@@ -85,8 +84,7 @@
                         <div class="panel-heading">
                             <a class="accordion-toggle" data-bs-toggle="collapse" data-bs-parent="#accordion-main" href="#collapseTwo">
                                 <div class="panel-title">
-                                    <span class="alt-font font-weight-600 text-deep-pink tab-tag">02</span>
-                                    <span class="text-extra-large text-extra-dark-gray alt-font font-weight-600">Corporate Banking</span>
+                                    <h4 class="text-extra-large text-extra-dark-gray alt-font font-weight-600"><span class="alt-font font-weight-600 text-deep-pink tab-tag">02</span>Corporate Banking</h4>
                                     <i class="fa-solid fa-angle-down text-extra-dark-gray"></i>
                                 </div>
                             </a>
@@ -109,8 +107,7 @@
                         <div class="panel-heading">
                             <a class="accordion-toggle" data-bs-toggle="collapse" data-bs-parent="#accordion-main" href="#collapseThree">
                                 <div class="panel-title">
-                                    <span class="alt-font font-weight-600 text-deep-pink tab-tag">03</span>
-                                    <span class="text-extra-large text-extra-dark-gray alt-font font-weight-600">Auditing & Accounting</span>
+                                    <h4 class="text-extra-large text-extra-dark-gray alt-font font-weight-600"><span class="alt-font font-weight-600 text-deep-pink tab-tag">03</span>Auditing & Accounting</h4>
                                     <i class="fa-solid fa-angle-down text-extra-dark-gray"></i>
                                 </div>
                             </a>
@@ -135,8 +132,7 @@
                         <div class="panel-heading">
                             <a class="accordion-toggle" data-bs-toggle="collapse" data-bs-parent="#accordion-main" href="#collapseFour">
                                 <div class="panel-title">
-                                    <span class="alt-font font-weight-600 text-deep-pink tab-tag">04</span>
-                                    <span class="text-extra-large text-extra-dark-gray alt-font font-weight-600">Study Abroad & Migration</span>
+                                    <h4 class="text-extra-large text-extra-dark-gray alt-font font-weight-600"><span class="alt-font font-weight-600 text-deep-pink tab-tag">04</span>Study Abroad & Migration</h4>
                                     <i class="fa-solid fa-angle-down text-extra-dark-gray"></i>
                                 </div>
                             </a>
@@ -154,8 +150,7 @@
                         <div class="panel-heading">
                             <a class="accordion-toggle" data-bs-toggle="collapse" data-bs-parent="#accordion-main" href="#collapseFive">
                                 <div class="panel-title">
-                                    <span class="alt-font font-weight-600 text-deep-pink tab-tag">05</span>
-                                    <span class="text-extra-large text-extra-dark-gray alt-font font-weight-600">Real Estate: Mortgage (UK & UAE) & Will Writing</span>
+                                    <h4 class="text-extra-large text-extra-dark-gray alt-font font-weight-600"><span class="alt-font font-weight-600 text-deep-pink tab-tag">05</span>Real Estate: Mortgage (UK & UAE) & Will Writing</h4>
                                     <i class="fa-solid fa-angle-down text-extra-dark-gray"></i>
                                 </div>
                             </a>

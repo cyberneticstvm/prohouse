@@ -15,7 +15,8 @@
         gtag('config', 'G-5EDQJMNP71');
     </script>
     <!-- title -->
-    <title>The PRO House - Business Incorporation Consultant</title>
+    <title>The PRO House - Business Setup Consultant in UAE and Russia</title>
+    <link rel="canonical" href="https://theprohouse.org" />
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1" />
