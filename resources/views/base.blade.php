@@ -75,7 +75,7 @@
                     <!-- end copyright -->
                     <!-- start logo -->
                     <div class="col-lg-4 col-md-2 text-center sm-margin-10px-bottom">
-                        <a href="index.html"><img class="footer-logo" src="{{ asset('/assets/images/prohouse/logo/logo-prohouse-black.webp') }}" data-at2x="{{ asset('/assets/images/prohouse/logo/logo-prohouse-black.webp') }}" alt="Pofo" rel="noreferrer"></a>
+                        <a href="{{ route('index') }}"><img class="footer-logo" src="{{ asset('/assets/images/prohouse/logo/logo-prohouse-black.webp') }}" data-at2x="{{ asset('/assets/images/prohouse/logo/logo-prohouse-black.webp') }}" alt="Pofo" rel="noreferrer"></a>
                     </div>
                     <!-- end logo -->
                     <!-- start social media -->
