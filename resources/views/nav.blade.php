@@ -3,7 +3,7 @@
     <!-- start logo -->
     <div class="col-12 sidenav-header">
         <div class="logo-holder">
-            <a href="{{ route('index') }}" class="d-inline-block logo"><img alt="Pofo" src="{{ asset('/assets/images/prohouse/logo/logo-prohouse-black.webp') }}" data-at2x="{{ asset('/assets/images/prohouse/logo/logo-prohouse-black.webp') }}" /></a>
+            <a href="{{ route('index') }}" class="d-inline-block logo" rel="noreferrer"><img alt="Pofo" src="{{ asset('/assets/images/prohouse/logo/logo-prohouse-black.webp') }}" data-at2x="{{ asset('/assets/images/prohouse/logo/logo-prohouse-black.webp') }}" /></a>
         </div>
         <!-- end logo -->
         <button class="navbar-toggler mobile-toggle" type="button" id="mobileToggleSidenav">
@@ -42,7 +42,7 @@
                     </ul>
                 </li>
                 <li class="dropdown">
-                    <a data-bs-toggle="dropdown" href="#" title="Contact">Contact PRO House <i class="fa-solid fa-angle-right"></i></a>
+                    <a data-bs-toggle="dropdown" href="#" title="Contact" rel="noreferrer">Contact PRO House <i class="fa-solid fa-angle-right"></i></a>
                     <ul class="dropdown-menu second-level">
                         <li class="dropdown ms-3 contact">
                             <strong>Address</strong><br />
@@ -75,10 +75,10 @@
                 </div>
             </form>
             <div class="icon-social-medium margin-eleven-bottom padding-eight-top sm-padding-15px-top sm-margin-15px-bottom">
-                <a href="https://www.facebook.com/" target="_blank" class="text-link-extra-dark-gray"><i class="fa-brands fa-facebook-f" aria-hidden="true"></i></a>
-                <a href="https://x.com/the_pro_house" target="_blank" class="text-link-extra-dark-gray"><i class="fa-brands fa-x-twitter" aria-hidden="true"></i></a>
-                <a href="https://instagram.com/theprohouseae" target="_blank" class="text-link-extra-dark-gray"><i class="fa-brands fa-instagram" aria-hidden="true"></i></a>
-                <a href="https://linkedin.com/in/the-pro-house" target="_blank" class="text-link-extra-dark-gray"><i class="fa-brands fa-linkedin" aria-hidden="true"></i></a>
+                <a href="https://www.facebook.com/" target="_blank" class="text-link-extra-dark-gray" rel="noreferrer"><i class="fa-brands fa-facebook-f" aria-hidden="true"></i></a>
+                <a href="https://x.com/the_pro_house" target="_blank" class="text-link-extra-dark-gray" rel="noreferrer"><i class="fa-brands fa-x-twitter" aria-hidden="true"></i></a>
+                <a href="https://instagram.com/theprohouseae" target="_blank" class="text-link-extra-dark-gray" rel="noreferrer"><i class="fa-brands fa-instagram" aria-hidden="true"></i></a>
+                <a href="https://linkedin.com/in/the-pro-house" target="_blank" class="text-link-extra-dark-gray" rel="noreferrer"><i class="fa-brands fa-linkedin" aria-hidden="true"></i></a>
             </div>
             <div class="text-medium-gray text-extra-small border-top border-color-extra-light-gray padding-twelve-top sm-padding-15px-top">&copy; {{ date('Y') }} THE PRO HOUSE. All rights reserved</div>
         </div>

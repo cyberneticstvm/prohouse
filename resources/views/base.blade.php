@@ -17,12 +17,16 @@
     <!-- title -->
     <title>The PRO House - Business Setup Consultant in UAE and Russia</title>
     <link rel="canonical" href="https://theprohouse.org" />
+    <meta name="twitter:title" content="The PRO House">
+    <meta name="twitter:description" content="Our understanding of diverse cultures and global business practices positions us as a reliable partner for those seeking services beyond their borders.">
+    <meta name="twitter:url" content="https://x.com/the_pro_house">
+    <meta name="twitter:card" content="The PRO House">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1" />
     <meta name="author" content="Cybernetics">
     <!-- description -->
-    <meta name="description" content="Business Incorporation, Corporate Banking, Auditing & Accounting, Migration & Study Abroad, Real Estate, Mortgage & Will Writing">
+    <meta name="description" content="Business Incorporation, Corporate Banking, Auditing & Accounting, Migration & Study Abroad, Real Estate, Mortgage & Will Writing. We do business in UAE and Russia">
     <!-- keywords -->
     <meta name="keywords" content="Business Incorporation, Corporate Banking, Auditing & Accounting, Migration & Study Abroad, Real Estate, Mortgage & Will Writing">
     <!-- favicon -->
@@ -71,7 +75,7 @@
                     <!-- end copyright -->
                     <!-- start logo -->
                     <div class="col-lg-4 col-md-2 text-center sm-margin-10px-bottom">
-                        <a href="index.html"><img class="footer-logo" src="{{ asset('/assets/images/prohouse/logo/logo-prohouse-black.webp') }}" data-at2x="{{ asset('/assets/images/prohouse/logo/logo-prohouse-black.webp') }}" alt="Pofo"></a>
+                        <a href="index.html"><img class="footer-logo" src="{{ asset('/assets/images/prohouse/logo/logo-prohouse-black.webp') }}" data-at2x="{{ asset('/assets/images/prohouse/logo/logo-prohouse-black.webp') }}" alt="Pofo" rel="noreferrer"></a>
                     </div>
                     <!-- end logo -->
                     <!-- start social media -->
@@ -79,10 +83,10 @@
                         <span class="alt-font text-small margin-20px-right md-margin-15px-right">On social networks</span>
                         <div class="social-icon-style-8 d-inline-block align-middle">
                             <ul class="small-icon mb-0">
-                                <li><a class="facebook" href="https://www.facebook.com/" target="_blank"><i class="fa-brands fa-facebook-f" aria-hidden="true"></i></a></li>
-                                <li><a class="twitter" href="https://x.com/the_pro_house" target="_blank"><i class="fa-brands fa-x-twitter"></i></a></li>
-                                <li><a class="instagram" href="https://instagram.com/theprohouseae" target="_blank"><i class="fa-brands fa-instagram me-0" aria-hidden="true"></i></a></li>
-                                <li><a class="linkedin" href="https://www.linkedin.com/in/the-pro-house" target="_blank"><i class="fa-brands fa-linkedin me-0" aria-hidden="true"></i></a></li>
+                                <li><a class="facebook" href="https://www.facebook.com/" target="_blank" rel="noreferrer"><i class="fa-brands fa-facebook-f" aria-hidden="true"></i></a></li>
+                                <li><a class="twitter" href="https://x.com/the_pro_house" target="_blank" rel="noreferrer"><i class="fa-brands fa-x-twitter"></i></a></li>
+                                <li><a class="instagram" href="https://instagram.com/theprohouseae" target="_blank" rel="noreferrer"><i class="fa-brands fa-instagram me-0" aria-hidden="true"></i></a></li>
+                                <li><a class="linkedin" href="https://www.linkedin.com/in/the-pro-house" target="_blank" rel="noreferrer"><i class="fa-brands fa-linkedin me-0" aria-hidden="true"></i></a></li>
                             </ul>
                         </div>
                     </div>
@@ -93,7 +97,7 @@
         <!-- end footer -->
     </div>
     <!-- start scroll to top -->
-    <a class="scroll-top-arrow" href="javascript:void(0);"><i class="ti-arrow-up"></i></a>
+    <a class="scroll-top-arrow" href="javascript:void(0);" rel="noreferrer"><i class="ti-arrow-up"></i></a>
     <!-- end scroll to top  -->
     <!-- javascript -->
     <script type="text/javascript" src="{{ asset('/assets/js/jquery.min.js') }}"></script>

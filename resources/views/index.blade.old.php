@@ -9,15 +9,15 @@
                 <h2 class="font-weight-600 alt-font margin-40px-bottom md-margin-20px-bottom text-extra-dark-gray letter-spacing-minus-1"></h2>-->
                 <div class="social-icon-style-8">
                     <ul class="small-icon">
-                        <li><a class="twitter text-extra-dark-gray margin-5px-lr" href="https://twitter.com/" target="_blank"><i class="fa-brands fa-twitter"></i></a></li>
-                        <li><a class="facebook text-extra-dark-gray margin-5px-lr" href="https://facebook.com/" target="_blank"><i class="fa-brands fa-facebook"></i></a></li>
-                        <li><a class="dribbble text-extra-dark-gray margin-5px-lr" href="https://instagram.com/theprohouseae" target="_blank"><i class="fa-brands fa-instagram" aria-hidden="true"></i></a></li>
+                        <li><a class="twitter text-extra-dark-gray margin-5px-lr" href="https://twitter.com/" target="_blank" rel="noreferrer"><i class="fa-brands fa-twitter"></i></a></li>
+                        <li><a class="facebook text-extra-dark-gray margin-5px-lr" href="https://facebook.com/" target="_blank" rel="noreferrer"><i class="fa-brands fa-facebook"></i></a></li>
+                        <li><a class="dribbble text-extra-dark-gray margin-5px-lr" href="https://instagram.com/theprohouseae" target="_blank" rel="noreferrer"><i class="fa-brands fa-instagram" aria-hidden="true"></i></a></li>
                     </ul>
                 </div>
             </div>
         </div>
         <div class="down-section text-center">
-            <a href="#about" class="inner-link"><i class="ti-arrow-down icon-small text-deep-pink"></i></a>
+            <a href="#about" class="inner-link" rel="noreferrer"><i class="ti-arrow-down icon-small text-deep-pink"></i></a>
         </div>
     </div>
 </section>
@@ -54,7 +54,7 @@
                     <!-- start tab content -->
                     <div class="panel panel-default">
                         <div class="panel-heading">
-                            <a class="accordion-toggle" data-bs-toggle="collapse" data-bs-parent="#accordion-main" href="#collapseOne">
+                            <a class="accordion-toggle" data-bs-toggle="collapse" data-bs-parent="#accordion-main" href="#collapseOne" rel="noreferrer">
                                 <div class="panel-title">
                                     <span class="alt-font font-weight-600 text-deep-pink tab-tag">01</span>
                                     <span class="text-extra-large text-extra-dark-gray alt-font font-weight-600">Business Incorporation</span>
@@ -79,7 +79,7 @@
                     <!-- start tab content -->
                     <div class="panel panel-default">
                         <div class="panel-heading">
-                            <a class="accordion-toggle" data-bs-toggle="collapse" data-bs-parent="#accordion-main" href="#collapseTwo">
+                            <a class="accordion-toggle" data-bs-toggle="collapse" data-bs-parent="#accordion-main" href="#collapseTwo" rel="noreferrer">
                                 <div class="panel-title">
                                     <span class="alt-font font-weight-600 text-deep-pink tab-tag">02</span>
                                     <span class="text-extra-large text-extra-dark-gray alt-font font-weight-600">Corporate Banking</span>
@@ -103,7 +103,7 @@
                     <!-- start tab content -->
                     <div class="panel panel-default">
                         <div class="panel-heading">
-                            <a class="accordion-toggle" data-bs-toggle="collapse" data-bs-parent="#accordion-main" href="#collapseThree">
+                            <a class="accordion-toggle" data-bs-toggle="collapse" data-bs-parent="#accordion-main" href="#collapseThree" rel="noreferrer">
                                 <div class="panel-title">
                                     <span class="alt-font font-weight-600 text-deep-pink tab-tag">03</span>
                                     <span class="text-extra-large text-extra-dark-gray alt-font font-weight-600">Auditing & Accounting</span>
@@ -130,7 +130,7 @@
                     <!-- start tab content -->
                     <div class="panel panel-default">
                         <div class="panel-heading">
-                            <a class="accordion-toggle" data-bs-toggle="collapse" data-bs-parent="#accordion-main" href="#collapseFour">
+                            <a class="accordion-toggle" data-bs-toggle="collapse" data-bs-parent="#accordion-main" href="#collapseFour" rel="noreferrer">
                                 <div class="panel-title">
                                     <span class="alt-font font-weight-600 text-deep-pink tab-tag">04</span>
                                     <span class="text-extra-large text-extra-dark-gray alt-font font-weight-600">Study Abroad & Migration</span>
@@ -149,7 +149,7 @@
                     <!-- start tab content -->
                     <div class="panel panel-default">
                         <div class="panel-heading">
-                            <a class="accordion-toggle" data-bs-toggle="collapse" data-bs-parent="#accordion-main" href="#collapseFive">
+                            <a class="accordion-toggle" data-bs-toggle="collapse" data-bs-parent="#accordion-main" href="#collapseFive" rel="noreferrer">
                                 <div class="panel-title">
                                     <span class="alt-font font-weight-600 text-deep-pink tab-tag">05</span>
                                     <span class="text-extra-large text-extra-dark-gray alt-font font-weight-600">Real Estate: Mortgage (UK & UAE) & Will Writing</span>
