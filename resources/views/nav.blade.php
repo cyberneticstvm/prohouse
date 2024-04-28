@@ -75,7 +75,7 @@
                 </div>
             </form>
             <div class="icon-social-medium margin-eleven-bottom padding-eight-top sm-padding-15px-top sm-margin-15px-bottom">
-                <a href="https://www.facebook.com/theprohouseuae" target="_blank" class="text-link-extra-dark-gray" rel="noreferrer"><i class="fa-brands fa-facebook-f" aria-hidden="true"></i></a>
+                <a href="https://www.facebook.com/theprohouseae" target="_blank" class="text-link-extra-dark-gray" rel="noreferrer"><i class="fa-brands fa-facebook-f" aria-hidden="true"></i></a>
                 <a href="https://x.com/the_pro_house" target="_blank" class="text-link-extra-dark-gray" rel="noreferrer"><i class="fa-brands fa-x-twitter" aria-hidden="true"></i></a>
                 <a href="https://instagram.com/theprohouseae" target="_blank" class="text-link-extra-dark-gray" rel="noreferrer"><i class="fa-brands fa-instagram" aria-hidden="true"></i></a>
                 <a href="https://linkedin.com/in/the-pro-house" target="_blank" class="text-link-extra-dark-gray" rel="noreferrer"><i class="fa-brands fa-linkedin" aria-hidden="true"></i></a>
