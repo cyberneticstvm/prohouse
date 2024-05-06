@@ -17,6 +17,10 @@ Route::get('/', function () {
     return view('index');
 })->name('index');
 
+Route::get('/payment', function () {
+    return view('payment');
+})->name('payment');
+
 Route::get('/sitemap.xml', function () {
     return response()->view('sitemap')->header('Content-Type', 'text/xml');
 })->name('sitemap');
