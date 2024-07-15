@@ -31,9 +31,9 @@
     <meta name="keywords" content="Business Incorporation, Corporate Banking, Auditing & Accounting, Migration & Study Abroad, Real Estate, Mortgage & Will Writing">
     <!-- favicon -->
     <link rel="shortcut icon" href="{{ asset('/assets/images/prohouse/favicon.png') }}">
-    <link rel="apple-touch-icon" href="{{ asset('/assets/images/apple-touch-icon-57x57.png') }}">
-    <link rel="apple-touch-icon" sizes="72x72" href="{{ asset('/assets/images/apple-touch-icon-72x72.png') }}">
-    <link rel="apple-touch-icon" sizes="114x114" href="{{ asset('/assets/images/apple-touch-icon-114x114.png') }}">
+    <link rel="apple-touch-icon" href="{{ asset('/assets/images/prohouse/favicon.png') }}">
+    <link rel="apple-touch-icon" sizes="72x72" href="{{ asset('/assets/images/prohouse/favicon.png') }}">
+    <link rel="apple-touch-icon" sizes="114x114" href="{{ asset('/assets/images/prohouse/favicon.png') }}">
     <!-- style sheets and font icons  -->
     <link rel="stylesheet" type="text/css" href="{{ asset('/assets/css/bootsnav.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('/assets/css/font-icons.min.css') }}">
